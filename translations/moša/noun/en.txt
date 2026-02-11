@@ -1,0 +1,4 @@
+feint
+fake
+dummy
+bluff
